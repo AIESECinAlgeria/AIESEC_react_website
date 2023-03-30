@@ -23,15 +23,13 @@ npm run start
 
 The Application Runs on **localhost:3000**
 
-## ReactJS documentation
+## ReactJS helpfull links
 
-   https://reactjs.org/  to understand the concepts of ReactJS
-   ###########
-**ReactJS tutoriel  first link**: https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
-  ################
-**ReactJS tutoriel  Second link**: https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR
-  #################
-**React boostrap documentation**: https://react-bootstrap.github.io/
+reactjs documentation: https://reactjs.org/  
+  
+**ReactJS tutoriel**: **https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1**
+ **ReactJS tutoriel**: **https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR**
+**React boostrap documentation**: **https://react-bootstrap.github.io/**
 
 
 
