@@ -6,8 +6,20 @@ Refer to https://nodejs.org/en/ to install nodejs
 
 ## Cloning  the Application in local
 
-**Clone the project into local**: https://docs.github.com/fr/repositories/creating-and-managing-repositories/cloning-a-repository 
-**tutoriel of how to clone a repository**: https://www.youtube.com/watch?v=q9wc7hUrW8U
+1- Create a new folder
+
+2- open the folder in VS code 
+
+3- write this code in the commend line 
+
+```bash
+git clone "https://github.com/AIESECinAlgeria/AIESEC-_react_website.git"
+```
+4- 
+```bash
+cd AIESEC-_react_website
+```
+
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
@@ -23,20 +35,20 @@ npm run start
 
 The Application Runs on **localhost:3000**
 
-## ReactJS helpfull links
+## React JS helpfull links
 
 Reactjs documentation: https://reactjs.org/  
 
 
 
-Reactjs tutoriel first link:https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
+Reactjs tutoriel first link : https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
 
 
 
-Reactjs tutoriel second link:https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR
+Reactjs tutoriel second link : https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR
 
 
-Reactjs boostrap documentation:https://react-bootstrap.github.io/
+Reactjs boostrap documentation : https://react-bootstrap.github.io/
 
 
 
