@@ -15,13 +15,14 @@ Refer to https://nodejs.org/en/ to install nodejs
 ```bash
 git clone "https://github.com/AIESECinAlgeria/AIESEC-_react_website.git"
 ```
-4- 
+4-  Go into the project folder
+
 ```bash
 cd AIESEC-_react_website
 ```
 
 
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+5- Install all the npm packages. 
 
 ```bash
 npm install
