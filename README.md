@@ -25,18 +25,18 @@ The Application Runs on **localhost:3000**
 
 ## ReactJS helpfull links
 
-reactjs documentation: https://reactjs.org/  
+Reactjs documentation: https://reactjs.org/  
 
 
 
-ReactJS tutoriel first link:https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
+Reactjs tutoriel first link:https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
 
 
 
-ReactJS tutoriel second link:https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR
+Reactjs tutoriel second link:https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR
 
 
-React boostrap documentation:https://react-bootstrap.github.io/
+Reactjs boostrap documentation:https://react-bootstrap.github.io/
 
 
 
