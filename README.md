@@ -36,6 +36,12 @@ npm run start
 
 The Application Runs on **localhost:3000**
 
+In order to install boostrao
+
+```bash
+ npm install bootstrap
+```
+
 ## React JS helpfull links
 
 Reactjs documentation: https://reactjs.org/  
