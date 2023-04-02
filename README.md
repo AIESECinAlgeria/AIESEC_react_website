@@ -36,7 +36,7 @@ npm run start
 
 The Application Runs on **localhost:3000**
 
-In order to install boostrao
+In order to install boostrap
 
 ```bash
  npm install bootstrap
