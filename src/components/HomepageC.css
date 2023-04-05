@@ -26,6 +26,7 @@ p {
     padding: 16px;
     border-radius: 10px;
     border: 1px solid var(--primary);
+    font-weight: 500;
 }
 
 a {
@@ -73,12 +74,54 @@ form input {
     .mt38 img {
         width: 30px;
     }
+    .exprience {
+        display: block;
+    }
+    .c {
+        width: 100%;
+        margin: 0;
+    }
 }
 
 
 /* exprience css */
 
-.exprience {
+.bg {
     background: rgba(71, 125, 238, 0.06);
-    height: 538px;
+}
+
+.c {
+    width: 1300px;
+    margin: 0 11%;
+}
+
+.exprience {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+}
+
+.exprience .text {
+    text-align: start;
+}
+
+.exprience .text .btn {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+.exprience .text p {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.exp-img {
+    position: relative;
+}
+
+.exp-img .front {
+    position: absolute;
+    top: 100px;
+    right: 55%;
 }
