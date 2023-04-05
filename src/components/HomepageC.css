@@ -1,0 +1,84 @@
+.footer {}
+
+.footer .grid2 {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 30px;
+}
+
+h4 {
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+p {
+    color: var(--grey);
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.btn {
+    background-color: var(--primary);
+    color: var(--white);
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px solid var(--primary);
+}
+
+a {
+    text-decoration: none;
+}
+
+form input {
+    padding: 16px;
+    border: 1px solid #CFCFCF;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.flex {
+    display: flex;
+}
+
+.mt38 {
+    margin-top: 38px;
+}
+
+.mt38 img {
+    width: 40px;
+}
+
+.col-5 {
+    width: 50%;
+}
+
+.col-45 {
+    width: 45%;
+}
+
+.col-10 {
+    width: 100%;
+}
+
+
+/* Footer mobile */
+
+@media screen and (max-width: 960px) {
+    .flex {
+        display: block;
+    }
+    .mt38 img {
+        width: 30px;
+    }
+}
+
+
+/* exprience css */
+
+.exprience {
+    background: rgba(71, 125, 238, 0.06);
+    height: 538px;
+}
