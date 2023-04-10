@@ -11,6 +11,23 @@ body {
     --grey: #6A6A6A;
     --white: #FFFFFF;
     --grey-white: #BCBABA;
+    --orange: #F85A40;
+}
+
+.cl3 {
+    color: var(--primary);
+}
+
+.cl4 {
+    color: var(--orange);
+}
+
+.pl10 {
+    padding-left: 10px;
+}
+
+.pl5 {
+    padding-left: 5px;
 }
 
 code {

@@ -1,9 +1,18 @@
-.footer {}
+.footer {
+    padding-top: 50px;
+}
 
 .footer .grid2 {
     display: grid;
     grid-template-columns: repeat(2, auto);
     gap: 30px;
+}
+
+.footer .copyright {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
 
 h4 {
@@ -71,15 +80,46 @@ form input {
     .flex {
         display: block;
     }
+    img {
+        width: 100%
+    }
     .mt38 img {
         width: 30px;
     }
-    .exprience {
-        display: block;
+    .exprience,
+    .gv {
+        display: block !important;
+        padding-top: 35px !important;
+        padding-bottom: 60px !important;
+    }
+    .exprience .exp-img {
+        margin: 20px;
+    }
+    .exp-img .front {
+        width: 72%;
     }
     .c {
-        width: 100%;
-        margin: 0;
+        width: 100% !important;
+    }
+    .col-5 {
+        width: auto;
+        padding: 35px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .gv .gv-img {
+        padding-left: 35px !important;
+    }
+    .gv .text-gv {
+        text-align: center;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    .text span {
+        display: block;
+        margin-top: 12px;
     }
 }
 
@@ -92,13 +132,24 @@ form input {
 
 .c {
     width: 1300px;
-    margin: 0 11%;
+    margin: 0 auto;
+}
+
+.cc {
+    width: 900px;
+    margin: 0 auto;
 }
 
 .exprience {
     padding-top: 120px;
     padding-bottom: 120px;
     display: flex;
+}
+
+.exprience img {
+    width: 100%;
+    object-fit: contain;
+    height: 280px;
 }
 
 .exprience .text {
@@ -123,5 +174,40 @@ form input {
 .exp-img .front {
     position: absolute;
     top: 100px;
-    right: 55%;
+    right: 25%;
+}
+
+
+/* GV */
+
+.text-gv {
+    padding-top: 60px;
+}
+
+.ta-center {
+    text-align: start;
+}
+
+.text-gv p {
+    text-align: start;
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.d-block {
+    display: block;
+}
+
+.gv {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+}
+
+.gv .gv-img {
+    padding-left: 120px;
+}
+
+.gv .text-gv img {
+    width: 132px;
 }

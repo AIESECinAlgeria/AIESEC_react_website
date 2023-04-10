@@ -4,7 +4,7 @@ import './HomepageC.css';
 
 const  footer=()=> {
   return (
-    <div className='footer'>
+    <div className='footer c'>
       <div className="flex">
       <div className='grid2 col-10'>
         <div>
@@ -44,7 +44,7 @@ const  footer=()=> {
         </div>
       </div>
       </div>
-      <div className="col-10"><p>©  1948-2022 AIESEC</p></div>
+      <div className="col-10 copyright"><p>©  1948-2022 AIESEC</p></div>
     </div>
   )
 }
