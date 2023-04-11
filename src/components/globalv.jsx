@@ -6,14 +6,14 @@ const  Globalv=()=> {
 
     <div className=' c gv'>
       
-        <div className='col-5 gv-img '>
+        <div className='col-45 gv-img '>
         <div className=' d-block col-10 ta-center'>
         <h1>Global<span className='cl4 pl10'>Volunteer</span></h1>
         </div>
         <img src={require('../img/gv.png')} alt='gv'/>
     
         </div>
-        <div className='col-5 text-gv'>
+        <div className='col-36 text-gv'>
         <h1>BECOME A VOLUNTEER</h1>
         <p>I got to experience the whole package 
         through Project ArchiTech, from interning in professional practice, volunteering, travelling through the 

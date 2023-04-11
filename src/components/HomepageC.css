@@ -73,6 +73,14 @@ form input {
     width: 100%;
 }
 
+.col-64 {
+    width: 64%;
+}
+
+.col-36 {
+    width: 36%;
+}
+
 
 /* Footer mobile */
 
@@ -101,7 +109,10 @@ form input {
     .c {
         width: 100% !important;
     }
-    .col-5 {
+    .col-5,
+    .col-36,
+    .col-64,
+    .col-45 {
         width: auto;
         padding: 35px;
     }
@@ -163,7 +174,7 @@ form input {
 
 .exprience .text p {
     font-weight: 700;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 29px;
 }
 
@@ -190,7 +201,7 @@ form input {
 
 .text-gv p {
     text-align: start;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 29px;
 }
 

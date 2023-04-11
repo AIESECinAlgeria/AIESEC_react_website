@@ -6,7 +6,7 @@ const  footer=()=> {
   return (
     <div className='footer c'>
       <div className="flex">
-      <div className='grid2 col-10'>
+      <div className='grid2 col-64'>
         <div>
           <h4 className=''>About</h4>
           <p>About us</p>
@@ -28,7 +28,7 @@ const  footer=()=> {
           <p>Find your country!</p>
         </div>
       </div>
-      <div className='col-10'>
+      <div className='col-36'>
         <h4>NEWSLETTER</h4>
         <p>Stay update with last offers and news</p>
         <form action="">
