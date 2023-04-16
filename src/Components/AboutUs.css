@@ -1,0 +1,20 @@
+ .about{
+ float: right;
+ width: 35%;
+}
+.AboutUs{
+    padding: 100px;
+}
+.AboutUs p {
+    color: #6a6a6a;
+   /* font-size: 44px;*/
+}
+
+.text span {
+    color: black;
+}
+
+.text{
+    padding-right: 200px;
+
+}
