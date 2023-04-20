@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c9c240c.css",
+    "main.js": "/static/js/main.af1f1919.js",
+    "static/media/live the experience.jpg": "/static/media/live the experience.9c50b30a53052dbd8fe8.jpg",
+    "static/media/Aboutus.png": "/static/media/Aboutus.e05c29dee2cee65bfe59.png",
+    "static/media/Global_talent.jpg": "/static/media/Global_talent.d63d60c1d650d9c96688.jpg",
+    "static/media/partner1.png": "/static/media/partner1.e2ced7613f60eef728aa.png",
+    "static/media/Groupe 167.png": "/static/media/Groupe 167.ef8512b5a53440380e56.png",
+    "static/media/partner3.png": "/static/media/partner3.3289f94198955ce57392.png",
+    "static/media/partner4.png": "/static/media/partner4.452edff6efab938abf5f.png",
+    "index.html": "/index.html",
+    "main.6c9c240c.css.map": "/static/css/main.6c9c240c.css.map",
+    "main.af1f1919.js.map": "/static/js/main.af1f1919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9c240c.css",
+    "static/js/main.af1f1919.js"
+  ]
+}
