@@ -1,7 +1,17 @@
 .text-no-decoration {
     text-decoration: none !important;
   }
+  .title{
+    color:#037ef3;
+    font-size: 2.8vh;
+  }
+  .content p{
+    font-size: 2.5vh;
+    color:black;
+  ;
+  }
   
+
   
   
   

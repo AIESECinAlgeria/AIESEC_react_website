@@ -1,0 +1,20 @@
+.title h1{
+    color:black;
+}
+.description p{
+   
+    line-height: 2;
+    color:grey;
+    font-size: 2vw;
+}
+.AppButton {
+    font-size: 1vw;
+}
+.search p{
+    color:#037ef3;
+    font-size: 2vw;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black !important;;
+   font-weight: 200;
+  }

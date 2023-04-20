@@ -6,8 +6,8 @@ import './HomepageC.css';
 
 const  GlobalT=()=> {
   return (
-
-    <div className=' c gv flex-row-reverse'>
+    <div className="container-fluid">
+    <div className=' c gv flex-row-reverse mb-0'>
       
         <div className='col-5 gv-img '>
         <div className='  volenteer d-block col-10 ta-center '>
@@ -26,6 +26,7 @@ const  GlobalT=()=> {
     
         </div>
     
+    </div>
     </div>
   )
 }

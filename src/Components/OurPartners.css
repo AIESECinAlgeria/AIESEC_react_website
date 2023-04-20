@@ -1,8 +1,4 @@
-.partners{
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-}
+
 .partners img:hover {
     transform: scale(1.12);
 }

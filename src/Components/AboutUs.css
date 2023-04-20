@@ -1,20 +1,22 @@
- .about{
- float: right;
- width: 35%;
-}
-.AboutUs{
-    padding: 100px;
-}
-.AboutUs p {
-    color: #6a6a6a;
-   /* font-size: 44px;*/
-}
+ .AIESEC{
+    font-size: 4vh;
+    color: grey;
+ }
+ @media (max-width: 768px){
 
-.text span {
-    color: black;
-}
+    .AIESEC
+ {
+    font-size:2vh;
+    color: grey;
+ }
+ }
+ .text-dark{
+    font-weight: 500;
+ }
+ @media (max-width: 768px){
 
-.text{
-    padding-right: 200px;
-
-}
+    .col-md-6.col-12.text-md-left
+ {
+    text-align: center;
+ }
+ }
