@@ -1,0 +1,33 @@
+ 
+.navelements{
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    align-items:baseline;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+   
+}
+.links:hover{
+      color: #497dee;
+}
+.links{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #757575;
+    margin: 20px;
+    
+}
+@media (max-width:990px){
+    .navelements{
+        flex-direction: column;
+        text-align: center;
+        margin: 0px;
+    }
+}
+
+
+
+.box-shadow{
+   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}

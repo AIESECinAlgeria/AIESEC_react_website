@@ -44,7 +44,7 @@ const  Home=()=> {
                               <div class="form-group col-4  p-2">
                                        <label for="inputState"> </label>
                                              <select id="inputState" class="form-control ">
-                                                   <option selected  className='option ' >Choose...</option>
+                                                   <option selected  className='option  ' >Choose...</option>
                                                              <option>..</option>
                                                 </select>
                               </div>
@@ -59,6 +59,7 @@ const  Home=()=> {
                          </div>   
                        
                  </form>
+
              </div>
        </div>
     </div>

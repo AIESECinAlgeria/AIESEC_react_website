@@ -23,7 +23,7 @@ export default function AboutUs() {
                                   organization entirely run by youth for youth.</p>
                        </div>
                        <div class="col-md-6 col-12 text-center ">
-                       <img  className=" w-50 text-center  "src={require('../img/Aboutus.png')} alt="experience" />
+                       <img  className=" w-75 text-center  "src={require('../img/Aboutus.png')} alt="experience" />
                        </div>
                     
             </div>

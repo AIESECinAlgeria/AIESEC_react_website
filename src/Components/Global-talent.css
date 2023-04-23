@@ -6,4 +6,32 @@ h2{
 }
 .interne p{
     color:grey;
+    font-weight: lighter;
 }
+@media (max-width: 768px){
+
+  .feedback
+{
+  font-size:1.5vh;
+  color: grey;
+  text-align: center;
+  
+  
+}
+.intern-title{
+  text-align: center;
+  color:black;
+
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.Product_Title{
+  font-size:3vw;
+}
+}
+
+
